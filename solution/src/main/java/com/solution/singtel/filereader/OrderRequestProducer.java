@@ -1,7 +1,3 @@
-/**
- * Alipay.com Inc.
- * Copyright (c) 2004-2019 All Rights Reserved.
- */
 package com.solution.singtel.filereader;
 
 import com.solution.singtel.common.Constants;
